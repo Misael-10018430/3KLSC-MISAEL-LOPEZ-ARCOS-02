@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3KLSC-MISAEL LOPEZ ARCOS-02", "3KLSC-MISAEL LOPEZ ARCOS-02\3KLSC-MISAEL LOPEZ ARCOS-02.pyproj", "{606E3970-272E-4D29-9014-40F9EF65F2DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{606E3970-272E-4D29-9014-40F9EF65F2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606E3970-272E-4D29-9014-40F9EF65F2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB3B5AC6-C978-418B-9D70-D466C1E23C23}
+	EndGlobalSection
+EndGlobal
